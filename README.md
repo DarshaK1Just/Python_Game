@@ -22,7 +22,7 @@ Please adhere to this project's `code of conduct`.
 # Screenshorts
 ![](Screenshot/ss1.jpg)
 ![](Screenshot/ss2.jpg)
-![](Screenshot/ss3.jpg)
+![](Screenshot/ss3.png)
 
 
 
