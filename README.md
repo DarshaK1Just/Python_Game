@@ -1,5 +1,5 @@
 
-# Python_Game
+# Flappy Bird Python Game
 
 In this project I create a one intresting game using python. In this I was used Pygame module. I also atteched one gallery folder for audio and sprites which contains all audio and photos for game.
 
